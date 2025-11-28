@@ -1,4 +1,5 @@
 # Motion Flow
+![Project Screenshot](./public/motion.png)
 
 Motion Flow is a React-based animated component code generator that helps developers instantly create smooth, interactive UI animations using Framer Motion. The tool provides ready-to-use code snippets and a visual preview for rapid prototyping.
 
